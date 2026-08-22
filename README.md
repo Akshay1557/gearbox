@@ -63,16 +63,17 @@ Two gear relationships were created:
 
 Gear Joint 1: Revolute.1 ↔ Revolute.2, Ratio = 0.4, Opposite direction     ,
 Gear Joint 2: Revolute.2 ↔ Revolute.3, Ratio = 0.4, Opposite direction
-Project Workflow
-Model individual gears
-Model shafts and bearings
-Model gearbox housing
-Assemble all components
-Apply assembly constraints
-Create revolute joints
-Create gear joints
-Define gear ratios
-Apply input rotation command
+
+Project Workflow:  ->
+Model individual gears  ->
+Model shafts and bearings   ->
+Model gearbox housing   ->
+Assemble all components  ->
+Apply assembly constraints  ->
+Create revolute joints  ->
+Create gear joints   ->
+Define gear ratios   ->
+Apply input rotation command   ->
 Perform DMU Kinematics simulation
 
 
