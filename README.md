@@ -5,14 +5,14 @@ This project is a 3D CAD model and kinematic simulation of a 4-gear gearbox deve
 
 The gearbox consists of four spur gears mounted on three shafts, supported by bearings and assembled on a gearbox housing. The assembly was developed using CATIA V5 Assembly Design and its motion was studied using the DMU Kinematics workbench.
 
-Components
-4 Spur Gears
-3 Shafts
-6 Bearings
-Gearbox Housing/Base
-Assembly Constraints
-Revolute Joints
-Gear Joints
+Components:
+4 Spur Gears,
+3 Shafts,
+6 Bearings,
+Gearbox Housing/Base,
+Assembly Constraints,
+Revolute Joints,
+Gear Joints,
 Gear Configuration
 
 The gearbox uses the following gear arrangement:
@@ -55,13 +55,13 @@ Kinematic Setup
 
 Three revolute joints were created for the three shafts:
 
-Revolute.1 → Shaft 1
-Revolute.2 → Shaft 2
-Revolute.3 → Shaft 3
+Revolute.1 → Shaft 1   ,
+Revolute.2 → Shaft 2    ,
+Revolute.3 → Shaft 3    
 
 Two gear relationships were created:
 
-Gear Joint 1: Revolute.1 ↔ Revolute.2, Ratio = 0.4, Opposite direction
+Gear Joint 1: Revolute.1 ↔ Revolute.2, Ratio = 0.4, Opposite direction     ,
 Gear Joint 2: Revolute.2 ↔ Revolute.3, Ratio = 0.4, Opposite direction
 Project Workflow
 Model individual gears
