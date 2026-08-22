@@ -83,15 +83,15 @@ Learning Outcomes
 
 This project helped develop practical skills in:
 
-3D CAD modelling
-Mechanical assembly
-Spur gear design
-Assembly constraints
-Shaft and bearing arrangement
-Gear ratio calculation
-DMU Kinematics
-Revolute and Gear Joints
-Mechanical motion simulation
+3D CAD modelling,
+Mechanical assembly,
+Spur gear design,
+Assembly constraints,
+Shaft and bearing arrangement,
+Gear ratio calculation,
+DMU Kinematics,
+Revolute and Gear Joints,
+Mechanical motion simulation,
 Project Status
 
 Completed: 3D modelling, assembly and kinematic mechanism development.
