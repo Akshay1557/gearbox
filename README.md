@@ -74,8 +74,9 @@ Create gear joints
 Define gear ratios
 Apply input rotation command
 Perform DMU Kinematics simulation
-Software
 
+
+Software
 CATIA V5
 
 Learning Outcomes
