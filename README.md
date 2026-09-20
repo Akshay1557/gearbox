@@ -157,6 +157,7 @@ Supporting Components
 - Gearbox Housing
 - Gearbox Cover
 - Fasteners
+
 🏗️ Gearbox Housing
 A complete gearbox housing was designed in CATIA V5 to support and enclose the internal components.
 The housing provides:
@@ -167,6 +168,7 @@ The housing provides:
 - Mounting provisions
 - Enclosure for the gearbox mechanism
 A separate gearbox cover was also designed and integrated with the housing during assembly.
+
 ⚙️ Bearing Arrangement
 Bearings were incorporated into the gearbox assembly to support the rotating shafts and maintain shaft alignment.
 The bearing arrangement provides:
@@ -175,9 +177,7 @@ The bearing arrangement provides:
 - Reduced friction during rotation
 - Stable gear alignment
 - Support for the rotating assembly
-🔑 Shaft and Keyway Design
-Keyways were incorporated into the shaft and gear connection to transmit rotational torque between the shafts and gears.
-The keyway arrangement ensures that the gears rotate together with their respective shafts during the kinematic simulation.
+
 🧩 Assembly Design
 All individual components were assembled using CATIA V5 Assembly Design.
 The completed assembly includes:
@@ -188,6 +188,7 @@ The completed assembly includes:
 - Gearbox housing
 - Gearbox cover
 - Supporting components
+
 Assembly constraints were applied to correctly position and align the components.
 🔗 Assembly Constraints
 Appropriate CATIA V5 assembly constraints were applied to:
@@ -199,6 +200,7 @@ Appropriate CATIA V5 assembly constraints were applied to:
 - Fix stationary components
 - Maintain the required relationships between rotating components
 These constraints were used to create a functional gearbox assembly suitable for kinematic simulation.
+
 🔄 Gear Mechanism
 The gear mechanism was created to establish the rotational relationship between the mating gears.
 The gearbox contains two gear pairs:
@@ -206,6 +208,7 @@ G1 (20T) ↔ G2 (50T)
 
 G3 (20T) ↔ G4 (40T)
 The gear ratios define the speed relationship between the mating gears.
+
 🎥 DMU Kinematic Simulation
 The completed gearbox was simulated using CATIA V5 DMU Kinematics.
 The simulation demonstrates:
@@ -219,6 +222,7 @@ The simulation demonstrates:
 - Gear interaction
 - Speed reduction
 The kinematic mechanism allows the rotational motion of the gearbox to be visualized as a complete assembly.
+
 📐 Engineering Drawings
 Final engineering drawings were prepared for the designed gearbox components.
 The drawings include relevant:
@@ -229,6 +233,7 @@ The drawings include relevant:
 - Manufacturing dimensions
 - Component identification
 The drawings provide technical documentation of the CAD models.
+
 🧱 Material Selection
 Gears
 Material: AISI 1045 Steel, Cold Drawn
@@ -245,6 +250,7 @@ The selected housing material provides:
 - Good machinability
 - Suitable properties for the housing application
 These material selections are specified in the theoretical analysis prepared for the project. theoretical-analysis
+
 🛠️ Project Workflow
 Gearbox Concept
       ↓
@@ -259,8 +265,6 @@ Input Shaft Design
 Intermediate Shaft Design
       ↓
 Output Shaft Design
-      ↓
-Keyway Design
       ↓
 Bearing Arrangement
       ↓
@@ -281,6 +285,7 @@ Motion Simulation
 Engineering Drawings
       ↓
 Final Documentation
+
 📊 Project Parameters
 Parameter	Value
 Gear Type	Spur Gear
@@ -316,43 +321,10 @@ Project Status	Completed
 - Engineering Drawing
 - Kinematic Motion Simulation
 - Technical Documentation
-✅ Project Completion Status
-The complete gearbox project has been successfully modeled, assembled, and documented in CATIA V5.
-Completed Components and Tasks
-- [x] Gear ratio calculations
-- [x] 20T gear design
-- [x] 50T gear design
-- [x] 40T gear design
-- [x] Input shaft
-- [x] Intermediate shaft
-- [x] Output shaft
-- [x] Keyway design
-- [x] Bearing arrangement
-- [x] Complete gearbox housing
-- [x] Gearbox cover
-- [x] Complete gearbox assembly
-- [x] Assembly constraints
-- [x] Gear mechanism
-- [x] DMU Kinematic simulation
-- [x] Final engineering drawings
-- [x] Final documentation
-🎯 Final Outcome
-The completed project demonstrates the design and virtual operation of a two-stage spur gear reduction gearbox using CATIA V5.
-The project demonstrates:
-- Mechanical power transmission
-- Two-stage speed reduction
-- Gear interaction
-- Shaft rotation
-- Torque transmission
-- Bearing-supported shaft arrangement
-- Mechanical assembly
-- Gearbox housing design
-- Assembly constraints
-- Kinematic motion simulation
-- Engineering documentation
-The theoretical gearbox provides an overall 5:1 reduction, corresponding to a theoretical reduction from 1500 rpm input speed to 300 rpm output speed.
+
 📚 Project Domain
 Mechanical Design | CAD Modeling | Gearbox Design | Mechanical Assembly | Kinematic Simulation
+
 👨‍💻 Author
-Mechanical Engineering Student
+AKSHAY KUMAR
 
