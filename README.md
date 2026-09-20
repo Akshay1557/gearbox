@@ -21,7 +21,6 @@ The completed gearbox assembly was constrained and simulated using **CATIA V5 DM
 - Establish gear mechanisms for power transmission.
 - Perform kinematic motion simulation using DMU Kinematics.
 - Prepare final engineering drawings of the gearbox components.
-- Develop complete project documentation.
 
 ---
 
@@ -47,13 +46,6 @@ The gearbox consists of four spur gears mounted on three shafts.
 | G3 | 20T | 4 mm | 20° | 80 mm | 88 mm | 70 mm |
 | G4 | 40T | 4 mm | 20° | 160 mm | 168 mm | 150 mm |
 
-The 20-tooth gear drawing specifies a module of 4 mm, 20° pressure angle, 80 mm pitch diameter, 88 mm outside diameter, and 70 mm root diameter. :chatgpt-content-reference{index="3"}
-
-The 40-tooth gear drawing specifies a module of 4 mm, 20° pressure angle, 160 mm pitch diameter, 168 mm outside diameter, and 150 mm root diameter. :chatgpt-content-reference{index="4"}
-
-The 50-tooth gear drawing specifies a module of 4 mm, 20° pressure angle, 200 mm pitch diameter, 208 mm outside diameter, and 190 mm root diameter. :chatgpt-content-reference{index="5"}
-
----
 
 # 🔄 Gear Arrangement
 
@@ -88,63 +80,6 @@ The power transmission sequence is:
                          ▼
                        OUTPUT
 G1 and G2 form the first reduction stage, while G3 and G4 form the second reduction stage.
-📐 Gear Specifications
-G1 and G3 — 20-Tooth Gear
-Parameter	Value
-Number of Teeth	20
-Module	4 mm
-Pitch Diameter	80 mm
-Pitch Radius	40 mm
-Pressure Angle	20°
-Addendum	4 mm
-Dedendum	5 mm
-Whole Depth	9 mm
-Outside Diameter	88 mm
-Root Diameter	70 mm
-Base Circle Diameter	75.18 mm
-Circular Pitch	12.57 mm
-Tooth Thickness	6.28 mm
-Clearance	1 mm
-Angular Pitch	18°
-
-
-G2 — 50-Tooth Gear
-Parameter	Value
-Number of Teeth	50
-Module	4 mm
-Pitch Diameter	200 mm
-Pitch Radius	100 mm
-Pressure Angle	20°
-Addendum	4 mm
-Dedendum	5 mm
-Whole Depth	9 mm
-Outside Diameter	208 mm
-Root Diameter	190 mm
-Circular Pitch	12.57 mm
-Tooth Thickness	6.28 mm
-Clearance	1 mm
-Angular Pitch	7.2°
-
-
-Note: The 50T gear drawing does not specify a base-circle diameter, so it is not included in the table.
-
-G4 — 40-Tooth Gear
-Parameter	Value
-Number of Teeth	40
-Module	4 mm
-Pitch Diameter	160 mm
-Pitch Radius	80 mm
-Pressure Angle	20°
-Addendum	4 mm
-Dedendum	5 mm
-Whole Depth	9 mm
-Outside Diameter	168 mm
-Root Diameter	150 mm
-Base Circle Diameter	150.35 mm
-Circular Pitch	12.57 mm
-Tooth Thickness	6.28 mm
-Clearance	1 mm
-Angular Pitch	9°
 
 
 📊 Gear Ratio Calculation
