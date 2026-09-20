@@ -4,7 +4,7 @@
 
 This project presents the complete **3D CAD design, assembly, and kinematic simulation of a two-stage spur gear reduction gearbox using CATIA V5**.
 
-The gearbox consists of **three shafts and four spur gears** arranged in two reduction stages. The individual components, including gears, shafts, bearings, keyways, gearbox housing, and gearbox cover, were designed and assembled in CATIA V5.
+The gearbox consists of **three shafts and four spur gears** arranged in two reduction stages. The individual components, including gears, shafts, bearings, gearbox housing, and gearbox cover, were designed and assembled in CATIA V5.
 
 The completed gearbox assembly was constrained and simulated using **CATIA V5 DMU Kinematics** to demonstrate gear interaction, shaft rotation, and speed reduction.
 
