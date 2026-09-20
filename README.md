@@ -15,7 +15,6 @@ The completed gearbox assembly was constrained and simulated using **CATIA V5 DM
 - Design a complete two-stage spur gear reduction gearbox.
 - Model individual gears, shafts, bearings, and housing components.
 - Calculate gear ratios, speed reduction, and theoretical torque transmission.
-- Design and integrate keyways between gears and shafts.
 - Design the complete gearbox housing and cover.
 - Assemble all components using CATIA V5 Assembly Design.
 - Apply assembly constraints and mechanical joints.
